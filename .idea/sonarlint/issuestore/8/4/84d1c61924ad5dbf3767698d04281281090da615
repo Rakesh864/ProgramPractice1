@@ -1,0 +1,7 @@
+
+v
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ƒ˜Ê8×ÓÈ„ä1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±É”ª8×ÓÈ„ä1
+m
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†ƒ˜Ê8àÓÈ„ä1
+L	java:S106"+Replace this use of System.out by a logger.(­¤¸™ûÿÿÿÿ8ß˜É„ä1
